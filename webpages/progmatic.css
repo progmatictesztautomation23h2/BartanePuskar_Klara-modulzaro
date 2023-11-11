@@ -1,0 +1,48 @@
+.body1aloldal
+{
+    background-image: url('./resources/relax.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+}
+
+.hatter2
+{
+    background-image: url('./resources/hatterindex.jpg');
+    background-size: auto;
+    background-repeat: repeat;
+}
+
+h4
+{
+    color: gray;
+}
+
+.img1
+{
+    width: 40px;
+    height: 40px;
+}
+
+.img2
+{
+    background-color: black;
+}
+
+#uzenetbox
+{
+    width: 610px;
+    height: 100px;
+}
+
+#btn1
+{
+    width: 200px;
+
+}
+
+.easteregg
+{
+    width: 60px;
+    height: 60px;
+}
